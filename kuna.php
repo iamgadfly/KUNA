@@ -4,10 +4,10 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="kuna.css" />
-    <link rel="stylesheet" href="mediakuna.css" />
-    <link rel="stylesheet" href="mediaminw770.css">
-    <link rel="stylesheet" href="mediakuna330.css">
+    <link rel="stylesheet" href="style/kuna.css">
+    <link rel="stylesheet" href="style/mediakuna.css">
+    <link rel="stylesheet" href="style/mediaminw770.css">
+    <link rel="stylesheet" href="style/mediakuna330.css">
 
     <link rel="stylesheet" href="font/stylesheet.css">
     <title>KUNA</title>
